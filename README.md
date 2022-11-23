@@ -1,7 +1,16 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
+![](https://gpvc.arturio.dev/PrayanshuPradhan)
+
 ## 🚀 About Me
 🎓 I am Prayanshu Pradhan, an undergraduate second year computer science and engineering student at Silver Oak University, Ahmedabad, Gujarat 👨‍🎓🎓.
+
+## My Skills:
+![](https://img.shields.io/badge/Java-informational?style=flat-square&logo=Java&logoColor=white&color=007396)
+![](https://img.shields.io/badge/Python-informational?style=flat-square&logo=Python&logoColor=white&color=3776AB)
+![](https://img.shields.io/badge/MySQL-informational?style=flat-square&logo=mysql&logoColor=white&color=4479A1)
+
+
 
 
 
